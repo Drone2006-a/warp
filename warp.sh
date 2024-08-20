@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# The original script does not support the operation of IPV6 ONLY machines, so the script has been modified
+# bash <(curl -fsSL https://raw.githubusercontent.com/Drone2006-a/warp/main/warp.sh) d
 #
 # https://github.com/P3TERX/warp.sh
 # Description: Cloudflare WARP Installer
