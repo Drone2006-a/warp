@@ -1,6 +1,8 @@
 #
 # wget -N https://cdn.jsdelivr.net/gh/fscarmen/warp/menu.sh && chmod +x menu.sh && ./menu.sh
 #
+# wget -N https://raw.githubusercontent.com/Drone2006-a/warp/main/menu.sh && chmod +x menu.sh && ./menu.sh
+#
 #!/bin/bash
 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/root/bin:/sbin:/bin
 export LANG=en_US.UTF-8
